@@ -1,0 +1,28 @@
+body {
+    background-color: #252525;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+    margin: 0 7rem;
+}
+
+.searching {
+    margin-bottom: 1.25rem;
+}
+
+.leaflet-container {
+    border-radius: 0.5rem;
+}
+
+a {
+    color: #00db4a;
+}
+
+.search-results {
+    margin-top: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
